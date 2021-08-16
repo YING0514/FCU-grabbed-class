@@ -15,11 +15,11 @@ browser = webdriver.Chrome(chrome_options=chrome_options)
 browser.maximize_window()
 
 # 帳號及密碼
-username = 'd0471777'
-password = ''
+username = 'd0755962'
+password = 'June0975'
 
 # 選課代號
-classID = '1459'
+classID = '2968'
 
 # 確定要搶課嗎？
 grabbed = True
