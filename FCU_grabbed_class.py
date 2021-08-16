@@ -15,8 +15,8 @@ browser = webdriver.Chrome(chrome_options=chrome_options)
 browser.maximize_window()
 
 # 帳號及密碼
-username = 'd0755962’
-password = ‘June0975’
+username = 'd0471777'
+password = ''
 
 # 選課代號
 classID = ’2968’
