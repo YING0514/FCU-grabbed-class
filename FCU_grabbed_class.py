@@ -19,7 +19,7 @@ username = 'd0471777'
 password = ''
 
 # 選課代號
-classID = '1459'
+classID = ’2968’
 
 # 確定要搶課嗎？
 grabbed = True
